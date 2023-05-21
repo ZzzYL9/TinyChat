@@ -5,19 +5,19 @@
 
 **注册：**
 
-![](/run/user/1000/doc/873712e1/注册.png)
+![image](https://github.com/ZzzYL9/TinyChat/blob/master/image/register.png)
 
 
 
 **私聊：**
 
-![](/run/user/1000/doc/b4fe6a9e/私聊.png)
+![image](https://github.com/ZzzYL9/TinyChat/blob/master/image/onlychat.png)
 
 
 
 **群聊：**
 
-![](/run/user/1000/doc/1186831c/群聊.png)
+![image](https://github.com/ZzzYL9/TinyChat/blob/master/image/groupchat.png)
 
 
 
@@ -29,4 +29,4 @@
 
 在account.txt文件保存200行数据时，QPS大概有17290左右
 
-![](/run/user/1000/doc/dfee9782/QPS.png)
+![image](https://github.com/ZzzYL9/TinyChat/blob/master/image/QPS.png)
